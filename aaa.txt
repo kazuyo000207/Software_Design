@@ -1,4 +1,3 @@
 hogehoge
 hugahuga
-hogehuga:wq
-
+hogehuga
